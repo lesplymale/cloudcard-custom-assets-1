@@ -3,7 +3,7 @@ Color_1: 000E2F
 Color_1_Shade: E4002B
 Color_2: 7C878E
 Color_2_Tint:FFFFFF
-Logo_URL: jsa-online-photo-submission.github.io/cloudcard-custom-assets/organizations/uconn/uconn-white-logo.png i.e. www.wingate.edu/wp-content/uploads/2015/06/logo.png
+Logo_URL: jsa-online-photo-submission.github.io/cloudcard-custom-assets/organizations/uconn/uconn-blue-gray-logo.png
 */
 
 html {
@@ -24,7 +24,7 @@ header.header-main {
 }
 
 .logo {
-  background: url('//jsa-online-photo-submission.github.io/cloudcard-custom-assets/organizations/uconn/uconn-white-logo.png') top center no-repeat;
+  background: url('//jsa-online-photo-submission.github.io/cloudcard-custom-assets/organizations/uconn/uconn-blue-gray-logo.png') top center no-repeat;
   display: inline-block;
   max-width: 400px !important;
   background-size: contain;
