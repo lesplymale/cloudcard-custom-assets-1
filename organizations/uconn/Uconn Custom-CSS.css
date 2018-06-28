@@ -7,11 +7,11 @@ Logo_URL: jsa-online-photo-submission.github.io/cloudcard-custom-assets/organiza
 */
 
 html {
-  background: #000E2F;
+  background: #FFFFFF;
 }
 
 .splash {
-  background-color: #000E2F;
+  background-color: #FFFFFF;
 }
 
 .splash .loading path {
@@ -19,7 +19,7 @@ html {
 }
 
 header.header-main {
-  background-color: #000E2F;
+  background-color: #FFFFFF;
   height:10.5em;
 }
 
@@ -47,11 +47,11 @@ header.header-page {
 
 /* Keep this block only if it looks good. */
 .header-page .tabs a.active {
-    border-bottom-color: #000E2F;
+    border-bottom-color: #FFFFFF;
 }
 
 .header-page .buttons button {
-  background-color: #000E2F;
+  background-color: #FFFFFF;
   color: #fff;
 }
 
@@ -74,7 +74,7 @@ header.header-page {
 
 .header-page .filters .filter:hover select,
 .header-page .filters .filter:focus-within select {
-    background-color: #000E2F;
+    background-color: #FFFFFF;
     color: #fff;
 }
 
@@ -96,7 +96,7 @@ router-view .buttons button.primary,
 #accept-terms,
 button.submit-login
 {
-    background-color: #000E2F;
+    background-color: #FFFFFF;
 }
 
 router-view .buttons button.primary:hover,
@@ -142,7 +142,7 @@ table td {
 }
 
 .footer {
-    background: #000E2F;
+    background: #FFFFFF;
 }
 
 /* Uncomment this block if the organization has a Plus Account.
