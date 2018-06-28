@@ -31,11 +31,11 @@ header.header-main {
 }
 
 header.header-page {
-  background-color:#7C878E;
+  background-color:#000E2F;
 }
 
 .header-page .tabs li a {
-  border-bottom-color:#7C878E;
+  border-bottom-color:#000E2F;
   color: #FFFFFF;
 }
 
@@ -56,7 +56,7 @@ header.header-page {
 }
 
 .header-page button {
-  background-color: #7C878E;
+  background-color: #000E2F;
   color: #fff;
 }
 
@@ -67,7 +67,7 @@ header.header-page {
   color: #000E2F;
 
   /* Alternative if the above doesn't look so great.
-  background-color: #7C878E;
+  background-color: #000E2F;
   color: #fff;
    */
 }
@@ -84,7 +84,7 @@ header.header-page {
 }
 
 button {
-    background-color: #7C878E;
+    background-color: #000E2F;
 }
 
 button:hover,
