@@ -47,7 +47,7 @@ header.header-page {
 
 /* Keep this block only if it looks good. */
 .header-page .tabs a.active {
-    border-bottom-color: #FFFFFF;
+    border-bottom-color: #E4002B;
 }
 
 .header-page .buttons button {
